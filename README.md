@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/book_cover.jpg" width="700" />
+  <img src="src/book_cover.jpg" width="500" />
 </p>
 
 # 📖 밑바닥부터 시작하는 딥러닝 5
@@ -25,3 +25,6 @@
 - PyTorch
 - torchvision
 - tqdm
+
+# 📜 License
+본 레포지토리는 MIT License에서 작성되었습니다.
