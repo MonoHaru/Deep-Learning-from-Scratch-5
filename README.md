@@ -8,16 +8,16 @@
 # 📁 Folder Structure
 | Folder Name | Chapter Title | Description |
 |---------|----------|----------------------|
-| CH01 | 정규분포 | Chapter 1에서 사용한 코드 및 자료 |
-| CH02 | 최대 가능도 추정 | Chapter 2에서 사용한 코드 및 자료 |
-| CH03 | 다변량 정규 분포 | Chapter 3에서 사용한 코드 및 자료 |
-| CH04 | 가우스 혼합 모델 | Chapter 4에서 사용한 코드 및 자료 |
-| CH05 | EM 알고리즘 | Chapter 5에서 사용한 코드 및 자료 |
-| CH06 | 신경망 | Chapter 6에서 사용한 코드 및 자료 |
-| CH07 | 변이형 오토인코더 | Chapter 7에서 사용한 코드 및 자료 |
-| CH08 | 확산 모델 이론 | Chapter 8에서 사용한 코드 및 자료 |
-| CH09 | 확산 모델 구현 | Chapter 9에서 사용한 코드 및 자료 |
-| CH10 | 확산 모델 응용 | Chapter 10에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 정규분포 | Chapter 1에서 사용한 코드 및 자료 |
+| [CH02](CH02/) | 최대 가능도 추정 | Chapter 2에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 다변량 정규 분포 | Chapter 3에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 가우스 혼합 모델 | Chapter 4에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | EM 알고리즘 | Chapter 5에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 신경망 | Chapter 6에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 변이형 오토인코더 | Chapter 7에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 확산 모델 이론 | Chapter 8에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 확산 모델 구현 | Chapter 9에서 사용한 코드 및 자료 |
+| [CH01](CH01/) | 확산 모델 응용 | Chapter 10에서 사용한 코드 및 자료 |
 
 # ⚙️ Requirements
 - Python
