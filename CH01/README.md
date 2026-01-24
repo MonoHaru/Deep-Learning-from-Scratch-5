@@ -10,4 +10,3 @@
 ## 📌 Summary & Resources
 - 📝 [NOTE](./CH%2001.pdf)
 - ✍️ [VELOG](https://velog.io/@rlaxorud970/CH-01-%EC%A0%95%EA%B7%9C%EB%B6%84%ED%8F%AC)
-
