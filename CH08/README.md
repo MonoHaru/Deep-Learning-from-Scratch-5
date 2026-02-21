@@ -10,4 +10,4 @@
 
 ## 📌 Summary & Resources
 - 📝 [NOTE](./CH08.pdf)
-- ✍️ [VELOG](https://velog.io/@rlaxorud970/CH-07-%EB%B3%80%EC%9D%B4%ED%98%95-%EC%98%A4%ED%86%A0%EC%9D%B8%EC%BD%94%EB%8D%94)
+- ✍️ [VELOG](https://velog.io/@rlaxorud970/CH-08-%ED%99%95%EC%82%B0-%EB%AA%A8%EB%8D%B8-%EC%9D%B4%EB%A1%A0)
